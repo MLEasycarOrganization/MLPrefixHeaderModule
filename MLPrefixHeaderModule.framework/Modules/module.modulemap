@@ -1,0 +1,6 @@
+framework module MLPrefixHeaderModule {
+  umbrella header "MLPrefixHeaderModule.h"
+
+  export *
+  module * { export * }
+}
