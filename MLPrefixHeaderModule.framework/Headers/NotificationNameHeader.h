@@ -101,4 +101,7 @@
 //调拨是否显示红色圆圈
 #define kNotificationRedCircleStatus @"notificationRedCircleStatus"
 
+
+#define kNotificationtest @"kNotificationRedCircleStatus"
+
 #endif /* NotificationNameHeader_h */
